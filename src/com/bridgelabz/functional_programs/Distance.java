@@ -3,6 +3,7 @@ package com.bridgelabz.functional_programs;
 import java.util.Scanner;
 
 public class Distance {
+    
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
