@@ -19,6 +19,7 @@ public class Quadratic {
         int delta = b*b-4*a*c;
 
         if (delta >= 0){
+            
             double x1 = (-b + Math.sqrt(delta))/(2*a);
             double x2 = (-b - Math.sqrt(delta))/(2*a);
             System.out.println("The real roots of quadratic equation ara :"+x1+" and "+x1);
