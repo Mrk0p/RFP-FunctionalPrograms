@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class WindChill {
 
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the values of temperature in Fahrenheit:");
         double t = scanner.nextDouble();
