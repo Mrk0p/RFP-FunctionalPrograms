@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Array_2D {
 
     public static void main(String[] args) {
+        
         int num[][] = new int[3][3];
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the Matrix values: ");
